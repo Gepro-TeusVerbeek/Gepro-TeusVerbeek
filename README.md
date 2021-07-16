@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am an embedded software developer with knowledge of C/C++ and Python. 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gepro-TeusVerbeek&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gepro-TeusVerbeek&layout=compact)
+
+
 <!--
 **Gepro-TeusVerbeek/Gepro-TeusVerbeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
